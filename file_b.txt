@@ -1,0 +1,6 @@
+modified
+unmodified
+tracked
+untracked
+staged
+committed
